@@ -1,2 +1,2 @@
 # Development-respository-
-Destinado a programação 
+Repositório destinado a projetos de informática, incluindo sistemas em Java, PHP, HTML, CSS, C, C++, C# e outras linguagens de programação.
